@@ -9,7 +9,7 @@
 但是我按照他的代码写完，写出来的是我的流星雨，虽然和正确结果不一样，但是将错就错，不准备继续改了，因为我感觉我的流星雨非常的好看！
 ## 成功效果展示
 
-![Image](https://forum.taichi.graphics/uploads/default/original/1X/e163379e1f66d011148ea35f7bcc2463b985b7b0.gif)
+![Image](https://forum.taichi.graphics/uploads/default/original/1X/99cc68461481fda3b0658f8fc87a0539d9104a57.gif)
 
 ## 整体结构（Optional）
 
